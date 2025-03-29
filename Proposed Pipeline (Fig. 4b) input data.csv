@@ -1,0 +1,15 @@
+variable,coefficient,std_error
+Black Race,1.138573507,0.259410596
+"Highest
+Education
+Level:
+Associate or
+Bachelor",0.786587684,0.351685159
+"Highest
+Education
+Level: High
+School",0.879393618,0.258156972
+"Homeownership
+Rates",0.29754631,0.122815869
+"Population
+Density",-0.022212647,0.003168546
